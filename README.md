@@ -24,3 +24,5 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center">
 <img title="UI/UX iOS" src="assets/readme/todo-iOS.gif" width="290" height="570"><img title="UI/UX Android" src="assets/readme/todo-android.gif" width="320" height="570">
 </p>
+
+I tried to add firebase to this project using `firebase_core` and `cloud_firestore` to store these tasks in a cloud db (firebase datastore) but null safety was giving me too many errors, will try again sometime soon. For now this is it. Make sure to star the repo. If you have any questions/suggestions, feel free to shoot me a dm. 
